@@ -8,4 +8,5 @@ w.decrypt(function(err, result) {
 	}
 	
 	console.log('Decrypted: ' + result);
-});
+}
+	 );
